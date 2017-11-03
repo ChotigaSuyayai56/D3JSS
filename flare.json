@@ -1,0 +1,121 @@
+{
+ "name": "flare",
+ "children": [
+  {
+   "name": "analytics",
+   "children": [
+   
+  
+    {
+     "name": "Central",
+     "children": [
+      {"name": "Phetchaburi", "size": 32978},
+      {"name": "Ratchapuri", "size": 28983},
+      {"name": "Samutsakhon", "size": 28837},
+      {"name": "Nonthaburi", "size": 22738},
+      {"name": "Nakhonpathom", "size": 12630},
+         {"name": "Samutprakan", "size": 98163},
+         {"name": "Samutsongkhram", "size": 21037},
+         {"name": "Pathumthani", "size": 187362},
+         {"name": " Kanchanaburi", "size": 67653},
+         {"name": "Suphanburi", "size": 19968},
+         {"name": "Nakhonnayok", "size": 19876},
+         {"name": "Angthong", "size": 19870},
+         {"name": "Chainat", "size": 10274},
+         {"name": "Lopburi", "size": 68374},
+         {"name": "Saraburi", "size": 12536},
+         {"name": "Singburi", "size": 37829},
+         {"name": "Sakaeo", "size": 23745},
+         {"name": "Prachinburi", "size": 35273},
+         {"name": "Chachoengsao", "size": 57839},
+	  {"name": "Bangkok", "size": 10638724}
+
+     ]
+    },
+    {
+     "name": "Northern",
+     "children": [
+      {"name": "Chiangmai", "size": 5348390},
+      {"name": "Chiangrai", "size": 1364367},
+      {"name": "Lamphun", "size": 746974},
+      {"name": "Lampang", "size": 211260},
+         {"name": "Uthai Thani", "size": 211260},
+         {"name": "Nakhon Sawan", "size": 211260},
+         {"name": "Phetchabun", "size": 211260},
+         {"name": "Phichit", "size": 211260},
+         {"name": "Kamphaeng Phet", "size": 211260},
+         {"name": "Tak", "size": 211260},
+         {"name": "Sukhothai", "size": 211260},
+         {"name": "Phitsanulok", "size": 211260},
+         {"name": "Uttaradit", "size": 211260},
+         {"name": "Phrae", "size": 211260},
+         {"name": "Mae Hong Son", "size": 211260},
+         {"name": "Phayao", "size": 211260},
+      {"name": "Nan", "size": 809847}
+     ]
+    },
+           {
+     "name": "Northeastern",
+     "children": [
+      {"name": "Nakhon Ratchasima", "size": 354954},
+      {"name": "Buriram", "size": 13839},
+      {"name": "Surin", "size": 16271},
+      {"name": "Si Sa Ket", "size": 21090},
+         {"name": "Ubon Ratchathani", "size": 10291},
+         {"name": "Amnat Charoen", "size": 12876},
+         {"name": "Yasothon", "size": 11460},
+         {"name": "Roi Et", "size": 10811},
+         {"name": "Mahasarakham", "size": 21781},
+         {"name": "Khon Kaen", "size": 562511},
+         {"name": "Chaiyaphum", "size": 29820},
+         {"name": "Loei", "size": 56281},
+         {"name": "Nong Bualumphu", "size": 29270},
+         {"name": "Udon Thani", "size": 87921},
+         {"name": "Kalasin", "size": 30298},
+         {"name": "Mukdahan", "size": 21260},
+         {"name": "Nong Khai", "size": 50696},
+         {"name": "Nakhon Phanom", "size": 24270},
+      {"name": "Sakon Nakhon", "size": 19847}
+     ]
+    },
+       
+               {
+     "name": "Eastern",
+     "children": [
+      {"name": "Chonburi", "size": 3354854},
+      {"name": "Rayong", "size": 2738400},
+      {"name": "Chanthaburi", "size": 1172139},
+      {"name": "Trat", "size": 1739404}
+     ]
+    },
+    {
+     "name": "Southern",
+     "children": [
+      {"name": "Prachuap Khirikhan", "size": 386134},
+	  {"name": "Chumphon", "size": 32492},
+	  {"name": "Ranong", "size": 25877},
+	   {"name": "Surat Thani", "size": 75861},
+	    {"name": "Phangnga", "size": 173738},
+		 {"name": "Trang", "size": 52691},
+		  {"name": "Narathiwat", "size": 12694},
+		  {"name": " Yala", "size": 16928},
+		{"name": "Pattani", "size": 11035},
+		{"name": "Songkla", "size": 171146},
+		{"name": "Satun", "size": 61083},
+			{"name": "Phattalung", "size": 54941},
+				{"name": "Krabi", "size": 2180151},
+				{"name": "Nakhon Srithammarat", "size": 46761},
+				{"name": "Phuket", "size": 2262955}
+		
+		
+     ]
+    }
+	
+   ]
+   }
+   ]
+   }	
+	
+	
+	
+	
